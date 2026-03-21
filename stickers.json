@@ -1538,5 +1538,705 @@
     "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/kvhub99_200x200.png",
     "pack": "pack2",
     "packName": "KVHub"
+  },
+  {
+    "id": "chuabede_000",
+    "name": "ChuaBeDe 1",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede0_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_001",
+    "name": "ChuaBeDe 2",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede1_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_002",
+    "name": "ChuaBeDe 3",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede2_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_003",
+    "name": "ChuaBeDe 4",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede3_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_004",
+    "name": "ChuaBeDe 5",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede4_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_005",
+    "name": "ChuaBeDe 6",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede5_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_006",
+    "name": "ChuaBeDe 7",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede6_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_007",
+    "name": "ChuaBeDe 8",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede7_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_008",
+    "name": "ChuaBeDe 9",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede8_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_009",
+    "name": "ChuaBeDe 10",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede9_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_010",
+    "name": "ChuaBeDe 11",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede10_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_011",
+    "name": "ChuaBeDe 12",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede11_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_012",
+    "name": "ChuaBeDe 13",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede12_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_013",
+    "name": "ChuaBeDe 14",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede13_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_014",
+    "name": "ChuaBeDe 15",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede14_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_015",
+    "name": "ChuaBeDe 16",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede15_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_016",
+    "name": "ChuaBeDe 17",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede16_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_017",
+    "name": "ChuaBeDe 18",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede17_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_018",
+    "name": "ChuaBeDe 19",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede18_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_019",
+    "name": "ChuaBeDe 20",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede19_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_020",
+    "name": "ChuaBeDe 21",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede20_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_021",
+    "name": "ChuaBeDe 22",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede21_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_022",
+    "name": "ChuaBeDe 23",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede22_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_023",
+    "name": "ChuaBeDe 24",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede23_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_024",
+    "name": "ChuaBeDe 25",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede24_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_025",
+    "name": "ChuaBeDe 26",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede25_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_026",
+    "name": "ChuaBeDe 27",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede26_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_027",
+    "name": "ChuaBeDe 28",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede27_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_028",
+    "name": "ChuaBeDe 29",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede28_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_029",
+    "name": "ChuaBeDe 30",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede29_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_030",
+    "name": "ChuaBeDe 31",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede30_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_031",
+    "name": "ChuaBeDe 32",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede31_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_032",
+    "name": "ChuaBeDe 33",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede32_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_033",
+    "name": "ChuaBeDe 34",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede33_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_034",
+    "name": "ChuaBeDe 35",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede34_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_035",
+    "name": "ChuaBeDe 36",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede35_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_036",
+    "name": "ChuaBeDe 37",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede36_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_037",
+    "name": "ChuaBeDe 38",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede37_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_038",
+    "name": "ChuaBeDe 39",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede38_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_039",
+    "name": "ChuaBeDe 40",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede39_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_040",
+    "name": "ChuaBeDe 41",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede40_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_041",
+    "name": "ChuaBeDe 42",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede41_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_042",
+    "name": "ChuaBeDe 43",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede42_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_043",
+    "name": "ChuaBeDe 44",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede43_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_044",
+    "name": "ChuaBeDe 45",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede44_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_045",
+    "name": "ChuaBeDe 46",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede45_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_046",
+    "name": "ChuaBeDe 47",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede46_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_047",
+    "name": "ChuaBeDe 48",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede47_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_048",
+    "name": "ChuaBeDe 49",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede48_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_049",
+    "name": "ChuaBeDe 50",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede49_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_050",
+    "name": "ChuaBeDe 51",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede50_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_051",
+    "name": "ChuaBeDe 52",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede51_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_052",
+    "name": "ChuaBeDe 53",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede52_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_053",
+    "name": "ChuaBeDe 54",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede53_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_054",
+    "name": "ChuaBeDe 55",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede54_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_055",
+    "name": "ChuaBeDe 56",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede55_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_056",
+    "name": "ChuaBeDe 57",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede56_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_057",
+    "name": "ChuaBeDe 58",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede57_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_058",
+    "name": "ChuaBeDe 59",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede58_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_059",
+    "name": "ChuaBeDe 60",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede59_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_060",
+    "name": "ChuaBeDe 61",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede60_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_061",
+    "name": "ChuaBeDe 62",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede61_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_062",
+    "name": "ChuaBeDe 63",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede62_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_063",
+    "name": "ChuaBeDe 64",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede63_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_064",
+    "name": "ChuaBeDe 65",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede64_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_065",
+    "name": "ChuaBeDe 66",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede65_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_066",
+    "name": "ChuaBeDe 67",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede66_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_067",
+    "name": "ChuaBeDe 68",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede67_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_068",
+    "name": "ChuaBeDe 69",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede68_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_069",
+    "name": "ChuaBeDe 70",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede69_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_070",
+    "name": "ChuaBeDe 71",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede70_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_071",
+    "name": "ChuaBeDe 72",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede71_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_072",
+    "name": "ChuaBeDe 73",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede72_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_073",
+    "name": "ChuaBeDe 74",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede73_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_074",
+    "name": "ChuaBeDe 75",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede74_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_075",
+    "name": "ChuaBeDe 76",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede75_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_076",
+    "name": "ChuaBeDe 77",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede76_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_077",
+    "name": "ChuaBeDe 78",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede77_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_078",
+    "name": "ChuaBeDe 79",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede78_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_079",
+    "name": "ChuaBeDe 80",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede79_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_080",
+    "name": "ChuaBeDe 81",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede80_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_081",
+    "name": "ChuaBeDe 82",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede81_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_082",
+    "name": "ChuaBeDe 83",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede82_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_083",
+    "name": "ChuaBeDe 84",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede83_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_084",
+    "name": "ChuaBeDe 85",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede84_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_085",
+    "name": "ChuaBeDe 86",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede85_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_086",
+    "name": "ChuaBeDe 87",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede86_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_087",
+    "name": "ChuaBeDe 88",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede87_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_088",
+    "name": "ChuaBeDe 89",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede88_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_089",
+    "name": "ChuaBeDe 90",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede89_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_090",
+    "name": "ChuaBeDe 91",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede90_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_091",
+    "name": "ChuaBeDe 92",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede91_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_092",
+    "name": "ChuaBeDe 93",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede92_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_093",
+    "name": "ChuaBeDe 94",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede93_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_094",
+    "name": "ChuaBeDe 95",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede94_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_095",
+    "name": "ChuaBeDe 96",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede95_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_096",
+    "name": "ChuaBeDe 97",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede96_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_097",
+    "name": "ChuaBeDe 98",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede97_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_098",
+    "name": "ChuaBeDe 99",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede98_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
+  },
+  {
+    "id": "chuabede_099",
+    "name": "ChuaBeDe 100",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/chuabede99_200x200.png",
+    "pack": "chuabede",
+    "packName": "ChuaBeDe"
   }
 ]
