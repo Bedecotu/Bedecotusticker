@@ -693,13 +693,6 @@
     "packName": "Bedecotu"
   },
   {
-    "id": "bedecotu_099",
-    "name": "Bedecotu 100",
-    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/99_200x200.png",
-    "pack": "bedecotu",
-    "packName": "Bedecotu"
-  },
-  {
     "id": "pack2_000",
     "name": "KVHub 1",
     "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/kvhub0_200x200.png",
@@ -3185,10 +3178,717 @@
     "packName": "BDCT2"
   },
   {
+    "id": "bdct2_098",
+    "name": "BDCT2 99",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct298_200x200.png",
+    "pack": "bdct2",
+    "packName": "BDCT2"
+  },
+  {
     "id": "bdct2_099",
     "name": "BDCT2 100",
     "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct299_200x200.png",
     "pack": "bdct2",
     "packName": "BDCT2"
+  },
+  {
+    "id": "bdct3_000",
+    "name": "BDCT3 1",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct30_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_001",
+    "name": "BDCT3 2",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct31_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_002",
+    "name": "BDCT3 3",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct32_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_003",
+    "name": "BDCT3 4",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct33_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_004",
+    "name": "BDCT3 5",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct34_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_005",
+    "name": "BDCT3 6",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct35_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_006",
+    "name": "BDCT3 7",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct36_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_007",
+    "name": "BDCT3 8",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct37_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_008",
+    "name": "BDCT3 9",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct38_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_009",
+    "name": "BDCT3 10",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct39_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_010",
+    "name": "BDCT3 11",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct310_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_011",
+    "name": "BDCT3 12",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct311_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_012",
+    "name": "BDCT3 13",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct312_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_013",
+    "name": "BDCT3 14",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct313_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_014",
+    "name": "BDCT3 15",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct314_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_015",
+    "name": "BDCT3 16",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct315_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_016",
+    "name": "BDCT3 17",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct316_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_017",
+    "name": "BDCT3 18",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct317_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_018",
+    "name": "BDCT3 19",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct318_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_019",
+    "name": "BDCT3 20",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct319_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_020",
+    "name": "BDCT3 21",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct320_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_021",
+    "name": "BDCT3 22",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct321_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_022",
+    "name": "BDCT3 23",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct322_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_023",
+    "name": "BDCT3 24",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct323_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_024",
+    "name": "BDCT3 25",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct324_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_025",
+    "name": "BDCT3 26",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct325_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_026",
+    "name": "BDCT3 27",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct326_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_027",
+    "name": "BDCT3 28",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct327_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_028",
+    "name": "BDCT3 29",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct328_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_029",
+    "name": "BDCT3 30",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct329_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_030",
+    "name": "BDCT3 31",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct330_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_031",
+    "name": "BDCT3 32",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct331_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_032",
+    "name": "BDCT3 33",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct332_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_033",
+    "name": "BDCT3 34",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct333_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_034",
+    "name": "BDCT3 35",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct334_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_035",
+    "name": "BDCT3 36",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct335_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_036",
+    "name": "BDCT3 37",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct336_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_037",
+    "name": "BDCT3 38",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct337_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_038",
+    "name": "BDCT3 39",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct338_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_039",
+    "name": "BDCT3 40",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct339_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_040",
+    "name": "BDCT3 41",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct340_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_041",
+    "name": "BDCT3 42",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct341_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_042",
+    "name": "BDCT3 43",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct342_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_043",
+    "name": "BDCT3 44",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct343_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_044",
+    "name": "BDCT3 45",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct344_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_045",
+    "name": "BDCT3 46",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct345_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_046",
+    "name": "BDCT3 47",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct346_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_047",
+    "name": "BDCT3 48",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct347_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_048",
+    "name": "BDCT3 49",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct348_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_049",
+    "name": "BDCT3 50",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct349_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_050",
+    "name": "BDCT3 51",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct350_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_051",
+    "name": "BDCT3 52",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct351_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_052",
+    "name": "BDCT3 53",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct352_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_053",
+    "name": "BDCT3 54",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct353_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_054",
+    "name": "BDCT3 55",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct354_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_055",
+    "name": "BDCT3 56",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct355_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_056",
+    "name": "BDCT3 57",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct356_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_057",
+    "name": "BDCT3 58",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct357_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_058",
+    "name": "BDCT3 59",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct358_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_059",
+    "name": "BDCT3 60",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct359_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_060",
+    "name": "BDCT3 61",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct360_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_061",
+    "name": "BDCT3 62",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct361_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_062",
+    "name": "BDCT3 63",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct362_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_063",
+    "name": "BDCT3 64",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct363_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_064",
+    "name": "BDCT3 65",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct364_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_065",
+    "name": "BDCT3 66",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct365_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_066",
+    "name": "BDCT3 67",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct366_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_067",
+    "name": "BDCT3 68",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct367_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_068",
+    "name": "BDCT3 69",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct368_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_069",
+    "name": "BDCT3 70",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct369_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_070",
+    "name": "BDCT3 71",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct370_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_071",
+    "name": "BDCT3 72",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct371_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_072",
+    "name": "BDCT3 73",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct372_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_073",
+    "name": "BDCT3 74",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct373_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_074",
+    "name": "BDCT3 75",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct374_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_075",
+    "name": "BDCT3 76",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct375_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_076",
+    "name": "BDCT3 77",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct376_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_077",
+    "name": "BDCT3 78",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct377_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_078",
+    "name": "BDCT3 79",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct378_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_079",
+    "name": "BDCT3 80",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct379_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_080",
+    "name": "BDCT3 81",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct380_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_081",
+    "name": "BDCT3 82",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct381_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_082",
+    "name": "BDCT3 83",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct382_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_083",
+    "name": "BDCT3 84",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct383_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_084",
+    "name": "BDCT3 85",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct384_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_085",
+    "name": "BDCT3 86",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct385_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_086",
+    "name": "BDCT3 87",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct386_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_087",
+    "name": "BDCT3 88",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct387_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_088",
+    "name": "BDCT3 89",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct388_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_089",
+    "name": "BDCT3 90",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct389_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_090",
+    "name": "BDCT3 91",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct390_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_091",
+    "name": "BDCT3 92",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct391_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_092",
+    "name": "BDCT3 93",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct392_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_093",
+    "name": "BDCT3 94",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct393_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_094",
+    "name": "BDCT3 95",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct394_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_095",
+    "name": "BDCT3 96",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct395_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_096",
+    "name": "BDCT3 97",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct396_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_097",
+    "name": "BDCT3 98",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct397_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_098",
+    "name": "BDCT3 99",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct398_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
+  },
+  {
+    "id": "bdct3_099",
+    "name": "BDCT3 100",
+    "url": "https://raw.githubusercontent.com/Bedecotu/Bedecotusticker/main/stickers/bdct399_200x200.png",
+    "pack": "bdct3",
+    "packName": "BDCT3"
   }
 ]
